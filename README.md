@@ -1,6 +1,6 @@
 # Quizlet-App
 ### App Description
-Navigate users to different parts of an app, Let users create content within an app, Save any data that users create
+Users can create new flashcards right from the app. Flashcard app should be able to save multiple user-created cards so that users can revisit the app to review their cards. Navigate users to different parts of an app, Let users create content within an app, and Save any data that users create
 ### App Walk-though
 
 
