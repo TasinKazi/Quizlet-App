@@ -6,6 +6,10 @@ Users can create new flashcards right from the app. Flashcard app should be able
 
 
 
+https://user-images.githubusercontent.com/93295121/198160266-0d005001-0b1d-448d-9b10-9ff48e858287.mp4
+
+
+
  ## Required
 [+] User sees a transition animation when going from the main screen to the add card screen.
 [+] User sees a reveal animation when the flashcard is tapped and the answer is shown
